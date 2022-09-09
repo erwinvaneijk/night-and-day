@@ -143,6 +143,10 @@ let g:nd_lightline = 1
 
 This plugin incorporates the [vim-colorscheme-switcher](https://github.com/xolox/vim-colorscheme-switcher) by xolox.
 
+This plugin used to be hosted by `nightsense`, who became `haystackandroid`, who then disappeared from github.
+I'm now using it, and accepting pull requests. But, it is without history from `nightsense`'s version,
+because I regenerated it from a shallow copy in my `.vim/bundle`.
+
 Map image courtesy of [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Daylight_Map,_nonscientific_(0900_UTC).jpg).
 
 The sunrise/sunset timetables were obtained from the ["year" spreadsheet](https://www.esrl.noaa.gov/gmd/grad/solcalc/calcdetails.html) provided by the US National Oceanic & Atmospheric Administration.
